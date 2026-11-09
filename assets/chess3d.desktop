@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=3D Chess
+Name[ru]=Шахматы 3D
+Comment=Chess against the computer or a friend
+Comment[ru]=Шахматы против компьютера или друга
+Exec=chess3d
+Icon=chess3d
+Terminal=false
+Categories=Game;BoardGame;
+Keywords=chess;board game;
+Keywords[ru]=шахматы;настольная игра;
+StartupWMClass=chess3d
